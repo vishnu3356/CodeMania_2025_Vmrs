@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+  }
+  
+  #map {
+    height: 400px;
+    width: 90%;
+    margin: 20px auto;
+  }
+  
+  #resources {
+    width: 90%;
+    margin-bottom: 2rem;
+  }
+  
+  .resource {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+  }
+  
+  .rating {
+    color: goldenrod;
+  }
+  
